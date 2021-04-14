@@ -1,5 +1,8 @@
 # **Computational Thinking**
-2021年4月14日
+
+[![xiaoyu](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+## _2021年4月14日_
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 开发者特征：
 
 第一：特别擅长分析问题，有非凡的抽象思维。
