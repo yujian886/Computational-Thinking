@@ -4,8 +4,7 @@
 1.https://medium.com/@guilpejon/how-to-install-bootstrap-4-3-in-a-rails-6-app-using-webpack-9eae7a6e2832
 2.https://fullstack.qzy.camp/posts/542
 
-感谢上述网站，受益匪浅，这些方案是我在众多方案选择和实践中最成功的。
-
+- ✨M谢上述网站，受益匪浅，这些方案是我在众多方案选择和实践中最成功的✨M
 
 #### Step 1. 设定，运用webpacker 来监视我们的程式
 
