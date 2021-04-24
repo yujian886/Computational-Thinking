@@ -4,7 +4,7 @@
 1.https://medium.com/@guilpejon/how-to-install-bootstrap-4-3-in-a-rails-6-app-using-webpack-9eae7a6e2832
 2.https://fullstack.qzy.camp/posts/542
 
-- ✨M谢上述网站，受益匪浅，这些方案是我在众多方案选择和实践中最成功的✨M
+- ✨M   感谢上述网站，受益匪浅，这些方案是我在众多方案选择和实践中最成功的✨     M
 
 #### Step 1. 设定，运用webpacker 来监视我们的程式
 
@@ -34,7 +34,7 @@ touch app/javascript/stylesheets/application.scss
      <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
 ```
 
-### Step 2   设置 foreman（非必须选者）  读者说这个可以加快加载网页的时间
+#### Step 2   设置 foreman（非必须选者）  读者说这个可以加快加载网页的时间
 1.安装
 ```sh
 gem install foreman
@@ -53,7 +53,7 @@ touch Procfile.dev
 foreman start -f Procfile.dev
 ```
 
-### Step 3   添加 bootrap
+#### Step 3   添加 bootrap
 1.安装bootstrap及其必需的依赖项插件 jquery和popper
 ```sh
 yarn add bootstrap@4.3.1 jquery popper.js   （4.3.1。 该版本我测试能用为版本数，可根据自己需求选者想要的版本）
@@ -266,7 +266,7 @@ end
 git add .
 git commit -m "add bootstrap html"
 ```
-## Step 5  增加 flash 功能
+#### Step 5  增加 flash 功能
 1.新增 app/views/common/_flashes.html.erb
 ```sh
 touch app/views/common/_flashes.html.erb
