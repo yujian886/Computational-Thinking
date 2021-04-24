@@ -3,6 +3,7 @@
 安装参考网站：
 1.https://medium.com/@guilpejon/how-to-install-bootstrap-4-3-in-a-rails-6-app-using-webpack-9eae7a6e2832
 2.https://fullstack.qzy.camp/posts/542
+
 感谢上述网站，受益匪浅，这些方案是我在众多方案选择和实践中最成功的。
 
 
