@@ -2,7 +2,7 @@
 # [HTML 基础知识总结](https://www.w3school.com.cn/html/html_lists.asp)
 
 ### 什么是 HTML？
-- HTML 是用来描述网页的一种标记语音 ，用标记标签来描述网页
+- HTML 是用来描述网页的一种标记语言 ，用标记标签来描述网页
 
 ### HTML 标签
 - HTML 标记标签通常称为HTML标签
