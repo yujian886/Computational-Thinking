@@ -96,7 +96,7 @@ HTML 折行（换行）<br /> 标签（空元素）
 - em 是相对字体长度单位，相对灵活，兼容性更强
 - px 是绝对长度单位
 - px单位不会根据浏览器窗口的宽度缩放
-- 
+- 使用em，在网页布局中，可以减少重叠
 #### h1 {margin : 10px 0px 15px 5px;} 的margin-top、margin-right、margin-left、margin-bottom 各是多少？
 （上、右、下、左）
 - argin-top=10px
