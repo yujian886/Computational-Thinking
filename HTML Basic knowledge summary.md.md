@@ -79,6 +79,28 @@ HTML 折行（换行）<br /> 标签（空元素）
 - 表格中的行由<tr>标签来定义
 - 表格中的列由<td>标签来定义
 ```
+# [CSS 语法](https://www.w3school.com.cn/css/css_syntax.asp)
+#### margin 与 padding 的差异
+- margin(外边距)/padding(内边距) 均为css框模型的一部分
+- 内边距直接包围元素内容，呈现的是元素的背景
+- 内边距和外边距 默认值是0，透明的
+- 外边距可以是负值，而且在很多情况下都要使用负值的外边距
+#### 什么是 box model；
+- box model 又名 盒子模型，模型包含四个部分（内容、填充、边距、边框）
+内容（content）-框的内容，其中显示文本和图像
+填充（paddding）-清除内容周围的区域。填充是透明的
+边框（borders）-围绕填充和内容的边框
+边距（margin）-清除边界外的区域。边距是透明的
 
-
+#### 为何要使用 em 而非 px 来定义字的大小；
+- em 是相对字体长度单位，相对灵活，兼容性更强
+- px 是绝对长度单位
+- px单位不会根据浏览器窗口的宽度缩放
+- 
+#### h1 {margin : 10px 0px 15px 5px;} 的margin-top、margin-right、margin-left、margin-bottom 各是多少？
+（上、右、下、左）
+- argin-top=10px
+- margin-right=0px
+- margin-left=5px
+- margin-bottom=15px
 
